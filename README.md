@@ -1,5 +1,3 @@
-# OwnAI (Assessment)
-
 ## Prerequisites
 
 - Node.js (v16+ recommended) and npm installed.
