@@ -11,6 +11,8 @@
 - npm install -D tailwindcss@3 postcss autoprefixer
   npx tailwindcss init -p
 - npm i react-router-dom
+- npm install bcryptjs dotenv express jsonwebtoken mongoose
+
 
 ## Project structure
 
